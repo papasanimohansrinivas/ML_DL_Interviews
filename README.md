@@ -1,2 +1,5 @@
 # ML_DL_Interviews
-What i have faced during job search for ML/DL
+
+## Recently I applied for few ML/DL poisitions from Linkeldn .
+## I was given assignments as part of interview process.
+## This repo contains assignments and solutions from Online Interview Rounds.
